@@ -1,2 +1,2 @@
 # double-vertical-slider
-This is small double-vertical-slider site.
+This is small double-vertical-slider Site.
